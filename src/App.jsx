@@ -62,7 +62,7 @@ const App = () => {
             type="text"
             value={task}
             onChange={(e) => setTask(e.target.value)}
-            placeholder="What do you need to do?"
+            placeholder="Add a new task..."
             className="flex-grow bg-gray-700 border border-gray-600 rounded-xl px-4 py-3 text-white placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-blue-500 transition"
           />
           <button

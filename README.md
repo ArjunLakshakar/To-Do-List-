@@ -11,10 +11,10 @@ You can add, edit, mark complete, and delete tasks.
 - Delete tasks
 - Clean UI with Tailwind CSS
 
-### Steps
+Github Repo - https://github.com/ArjunLakshakar/To-Do-List-
 
-1. **Clone the repository**
+##  How to Run the Application
 
 ```bash
-git clone https://github.com/your-username/react-todo-app.git
+git clone https://github.com/ArjunLakshakar/To-Do-List-
 cd react-todo-app
